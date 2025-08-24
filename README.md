@@ -1,4 +1,4 @@
-# 🌟 Rakshitha R — Portfolio  
+# Rakshitha R — Portfolio  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithar&label=Profile%20Views&color=0e75b6&style=flat)  
 [![GitHub followers](https://img.shields.io/github/followers/rakshithar?style=social)](https://github.com/rakshithar)  
