@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/rakshithar?style=social)](https://github.com/rakshithar)  
 [![GitHub stars](https://img.shields.io/github/stars/rakshithar?style=social)](https://github.com/rakshithar)  
 
-Welcome to my **personal portfolio repository** 🎉  
+Welcome to my **personal portfolio repository**   
 This project showcases my **skills, projects, certifications, and achievements** in the field of **Computer Applications, Software Development, and Data Science**.  
 
 ---
